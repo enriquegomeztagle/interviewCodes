@@ -20,3 +20,14 @@ print(isAnagram("cat", "rat"))
 print(isAnagram("mar", "ram"))
 
 print(isAnagram("Nile", "line"))
+
+####################################################################
+#### Time Complexity:
+## Final Time Complexity = O(n log n)
+
+####################################################################
+
+### Space Complexity:
+## Final Space Complexity = O(n)
+
+####################################################################
